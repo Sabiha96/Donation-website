@@ -8,10 +8,10 @@ body {
     font-size: 50px;
     position: absolute;
     width: 1000px;
-    height: 140px;
+    height: 180px;
     right: 100px;
     left: 100 px;
-    top: 290px;
+    top: 198px;
 
 }
 
@@ -22,7 +22,7 @@ body {
     height: 72px;
 
     left: 250px;
-    top: 380px;
+    top: 299px;
 
 }
 
@@ -38,14 +38,14 @@ button {
     width: 160px;
     height: 56px;
     left: 656px;
-    top: 480px;
+    top: 395px;
 }
 
 .banner {
     background-image: url("pictures/cover.png");
     position: absolute;
-    width: 1365px;
-    height: 600px;
+    width: 1350px;
+    height: 490px;
     left: 0px;
     right: 0px;
     top: 0px;
@@ -55,9 +55,9 @@ button {
     position: absolute;
     text-align: center;
     width: 300px;
-    height: 20px;
+    height: 10px;
     left: 550px;
-    top: 600px;
+    top: 480px;
 }
 
 .two {
@@ -94,7 +94,7 @@ button {
     width: 150px;
     height: 50px;
     left: 300px;
-    top: 850px;
+    top: 730px;
 
     align-items: center;
 
@@ -113,7 +113,7 @@ button {
     width: 150px;
     height: 50px;
     left: 480px;
-    top: 800px;
+    top: 680px;
 
 
     align-items: center;
@@ -134,7 +134,7 @@ button {
     width: 150px;
     height: 50px;
     left: 500px;
-    top: 800px;
+    top: 680px;
     align-items: center;
 
 
@@ -152,7 +152,7 @@ button {
     width: 150px;
     height: 50px;
     left: 530px;
-    top: 800px;
+    top: 680px;
     align-items: center;
 
 
@@ -169,7 +169,7 @@ button {
     width: 150px;
     height: 50px;
     left: 560px;
-    top: 800px;
+    top: 680px;
     align-items: center;
 
 
@@ -180,7 +180,7 @@ button {
     width: 192px;
     height: 28px;
     left: 625px;
-    top: 880px;
+    top: 760px;
 
     font-family: 'Poppins';
     font-style: normal;
@@ -206,8 +206,17 @@ button {
     position: absolute;
     width: 160px;
     height: 56px;
-    left: 656px;
-    top: 952px;
+    left: 648px;
+    top: 830px;
+}
+
+.definition {
+
+    height: fit-content;
+    top: 570px;
+    width: 200px;
+
+
 }
 
 .Third-sec {
@@ -216,31 +225,29 @@ button {
 
 
     font-style: normal;
-    line-height: 54px;
+
     color: #121212;
     display: inline;
-    top: 1099px;
-    height: 2000px;
+    top: 880px;
+
+    text-align: center;
+    width: 800px;
+    left: 330px;
+
+
 
 
 }
 
-.qun {}
-
-
-
-
-
-
 .card-1 {
 
-    width: 350px;
-    height: 345px;
-    left: 150px;
+    width: 230px;
+    height: 250px;
+    left: 100px;
     top: 100px;
-    padding-left: 10px;
+    padding: 10px;
     border: 5px;
-    gap: 20px;
+    gap: 10px;
     position: relative;
     display: inline-block;
 
@@ -254,7 +261,7 @@ button {
 .card-2 {
     width: 350px;
     height: 345px;
-    left: 150px;
+    left: 100px;
     top: 100px;
     padding-left: 10px;
     position: relative;
@@ -290,4 +297,42 @@ button {
     height: 900 px;
     left: 400px;
     top: 1000px;
+}
+
+.fourth-sec {
+    position: absolute;
+    width: 450px;
+    height: 100px;
+    left: 150px;
+    margin-top: 1099px;
+    margin-bottom: 500px;
+    text-align: left;
+
+
+}
+
+
+
+.picture-1 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 600px;
+    top: 190px;
+
+}
+
+.btn-3 {
+    background-color: #FF5959;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: left;
+    padding: 5px 10px;
+    position: absolute;
+    width: 150px;
+    height: 56px;
+    left: 120px;
+    top: 800px;
 }
