@@ -243,8 +243,8 @@ button {
 
     width: 230px;
     height: 250px;
-    left: 100px;
-    top: 100px;
+    left: 0px;
+    top: 70px;
     padding: 10px;
     border: 5px;
     gap: 10px;
@@ -259,14 +259,16 @@ button {
 }
 
 .card-2 {
-    width: 350px;
-    height: 345px;
-    left: 100px;
-    top: 100px;
-    padding-left: 10px;
+    width: 230px;
+    height: 250px;
+    left: 10px;
+    top: 70px;
+    padding: 10px;
+    border: 10px;
+    gap: 10px;
     position: relative;
     display: inline-block;
-    gap: 20px;
+
 
     background: rgba(255, 89, 89, 0.1);
     border-radius: 5px;
@@ -275,14 +277,16 @@ button {
 
 
 .card-3 {
-    width: 350px;
-    height: 345px;
-    left: 150px;
-    top: 100px;
-    padding-left: 10px;
+    width: 230px;
+    height: 250px;
+    left: 15px;
+    top: 70px;
+    padding: 10px;
+    border: 5px;
+    gap: 10px;
     position: relative;
     display: inline-block;
-    gap: 20px;
+
 
     background: rgba(79, 157, 166, 0.1);
     border-radius: 5px;
