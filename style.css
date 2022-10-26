@@ -308,12 +308,52 @@ button {
 
 
 
+.fourth-sec-text {
+
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    left: 150px;
+    top: 1550px;
+
+
+
+}
+
+.picture-1 {
+    position: absolute;
+    width: 456px;
+    height: 477px;
+    left: 749px;
+    top: 1470px;
+}
+
+.btn-3 {
+    background-color: #FF5959;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+
+    align-items: left;
+    padding: 5px 10px;
+    position: absolute;
+    width: 150px;
+    height: 56px;
+    left: 5px;
+    top: 250px;
+
+}
+
+
+
+
+
 .fifth-sec-text {
 
     position: absolute;
     width: 600px;
     height: 200px;
-    left: 700px;
+    left: 750px;
     top: 2099px;
     float: right;
 
